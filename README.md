@@ -1,4 +1,4 @@
-﻿# TPI-Python
+# TPI-Python
 
 # Gestión de Datos de Países en Python
 
@@ -152,7 +152,7 @@ Brasil
 
 **Informe final en PDF:**
 
-Agregar aquí el enlace al PDF
+[Juan_Brian_Informe_TPI_Gestion_de_Paises.pdf](https://github.com/user-attachments/files/35001488/Juan_Brian_Informe_TPI_Gestion_de_Paises.pdf)
 
 El informe contiene la introducción, los objetivos, el marco teórico, las decisiones técnicas, el diagrama de flujo, las pruebas realizadas, las dificultades encontradas y las conclusiones.
 
